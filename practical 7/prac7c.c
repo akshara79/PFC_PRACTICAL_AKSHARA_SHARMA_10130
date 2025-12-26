@@ -1,4 +1,4 @@
-//3. Alphabet pattern//
+//3. Alphabet pattern akshara sharma 10130//
 #include <stdio.h>
 
 int main() {

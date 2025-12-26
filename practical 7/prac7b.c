@@ -1,4 +1,4 @@
-//2. Hourglass of length 2n-1 (stars)//
+//2. Hourglass of length 2n-1 (stars) akshara sharma 10130//
 #include <stdio.h>
 
 int main() {

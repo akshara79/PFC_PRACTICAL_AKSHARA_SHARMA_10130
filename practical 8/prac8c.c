@@ -1,4 +1,4 @@
-//3. Function to print right angle triangle of stars of height n//
+//3. Function to print right angle triangle of stars of height n akshara sharma 10130//
 #include <stdio.h>
 void printTriangle(int height) {
     for (int i = 1; i <= height; i++) {

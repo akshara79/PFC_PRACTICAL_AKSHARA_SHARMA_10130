@@ -1,4 +1,4 @@
-//1. Diamond of length 2n-1 (stars)//
+//1. Diamond of length 2n-1 (stars) akshara sharma 10130//
 
 #include <stdio.h>
 

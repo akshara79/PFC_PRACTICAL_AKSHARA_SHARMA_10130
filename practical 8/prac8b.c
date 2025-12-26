@@ -1,4 +1,4 @@
-//2. Swap 2 numbers using pass by reference//
+//2. Swap 2 numbers using pass by reference akshara sharma 10130//
 #include <stdio.h>
 void swap(int *a, int *b) {
     int temp = *a;

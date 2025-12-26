@@ -1,4 +1,4 @@
-//1. Function sumOfDigits(n)//
+//1. Function sumOfDigits(n) akshara sharma 10130//
 
 #include <stdio.h>
 
